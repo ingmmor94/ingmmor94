@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">!Hola¡ soy José Miguel Morales <br>TSU en Desarrollo de Software Multiplataforma & Ing. Desarrollo de Negocios y Gestión Empresarial</p>
+<p align="left">¡Hola! soy José Miguel Morales <br>TSU en Desarrollo de Software Multiplataforma & Ing. Desarrollo de Negocios y Gestión Empresarial.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Busco especializarme en JavaScript<br>📚 He laborado con el el sector publico y privado<br> 🎯Mi mayor meta es ser alguien destacado en el pensamiento critico de la programación moderna</p>
+<p align="left">✨ Busco especializarme en JavaScript<br>📚 He laborado con el el sector publico y privado<br> 🎯Mi mayor meta es destacar por mi pensamiento crítico en la programación moderna</p>
 
 ###
 
